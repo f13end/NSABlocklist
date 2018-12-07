@@ -1,7 +1,7 @@
-NSABlocklist© project original created under the MIT license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
-  <img width="480" height="350" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
+  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
 </p>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
@@ -109,6 +109,7 @@ Utils
 Project History
 ------------
 
+- [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
 - [x] 03.06.2018 Ipfilter update, Amzon list finally fully merged.
 - [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
@@ -246,6 +247,36 @@ Spying:<br />
 * HoxxVPN (might sells data, according to their privacy policy)
 * FinchVPN (might sells data, according to their privacy policy)
 * TouchVPN (might sells data, according to their privacy policy)
+* TurboVPN
+* VPN Proxy Master
+* Snap VPN
+* X-VPN	5M
+* VPN 360	1M
+* VPN – Super Unlimited Proxy
+* Free VPN by FreeVPN.org
+* Secure VPN
+* VPN – Master Proxy
+* HotspotVPN
+* SkyVPN
+* VPN Patron
+* VPN for iPhone
+* YogaVPN
+* VPN Guru
+* Hola
+* Hotspot Shield
+* Betternet
+* TouchVPN
+* Shield VPN
+* VPN Wifi Proxy Security Master
+* Victory VPN
+* Storm VPN (_unclear_)
+* SuperVPN Free VPN Client
+* VPN Private
+* Thunder VPN
+* VPN Melon
+* Super VPN
+* #VPN
+* Psiphon
 
 
 Recommendation:<br />
@@ -254,6 +285,7 @@ Recommendation:<br />
 * [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
 * [Perfect Privacy](https://www.perfect-privacy.com/)
+* [NordVPN](https://nordvpn.com) [Audit](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Documents/VPN/profile-nordvpn2.pdf) [Blog](https://vpnpro.com/blog/why-pwc-audit-of-nordvpn-logging-policy-is-a-big-deal/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
