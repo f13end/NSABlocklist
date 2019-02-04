@@ -1,12 +1,12 @@
-NSABlocklist© project original created under the ISC license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015-2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
   <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
 </p>
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 Description
 ------------
@@ -184,6 +184,14 @@ Compromised ISP Providers
 
 
 
+ISP which are known to fight for privacy and a free internet
+------------
+
+* Bahnhof (Swedish)
+* Sonic (US)
+
+
+
 Blockchain monitoring
 ------------
 * [OAKSTAR](https://en.wikipedia.org/wiki/OAKSTAR) (sub-project MONKEYROCKET)
@@ -235,7 +243,7 @@ Spying:<br />
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
 * [Hide My Ass](http://www.hacker10.com/internet-anonymity/hma-vpn-user-arrested-after-ip-handed-over-to-the-fbi/)
 * ProXPN
-* [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
+* [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download) ([proof](https://news.ycombinator.com/item?id=18923155))
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
 * Slickvpn (keeps logs)
@@ -277,6 +285,11 @@ Spying:<br />
 * Super VPN
 * #VPN
 * Psiphon
+* AnchorFree
+* StackPath
+* Avast (owns three brands: HideMyAss, Avast Secureline VPN, AVG Secure VPN, and Zen VPN)
+* Kape and Gaditek
+
 
 
 Recommendation:<br />
