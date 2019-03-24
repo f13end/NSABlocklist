@@ -1,12 +1,13 @@
-NSABlocklist© project original created under the ISC license 2015-2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
   <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
 </p>
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
+![Twitter Follow](https://img.shields.io/twitter/follow/@CKsTechNews.svg?label=Follow%20%40CKsTechNews&style=social)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 
 Description
 ------------
@@ -106,12 +107,23 @@ Utils
 
 
 
+
+NSA Resources and public program(s)
+------------
+
+* [National Security Agency (github.com)](https://github.com/nationalsecurityagency)
+* [Ghidra reverse engineering (SRE) framework (nsa.gov)](https://www.nsa.gov/resources/everyone/ghidra/) [[story](https://www.theregister.co.uk/2019/03/06/nsa_ghidra_joyce/)]
+* [NSA public source code repo (code.nsa.gov)](https://code.nsa.gov/) 
+
+
+
+
 Project History
 ------------
 
 - [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
-- [x] 03.06.2018 Ipfilter update, Amzon list finally fully merged.
+- [x] 03.06.2018 Ipfilter update, Amazon list finally fully merged.
 - [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
 - [x] 05.05.2018 Ipfilter update.
 - [x] 22.03.2018 Bitcoing (Blockchain) tracking documents (revealed by E.S.) added
@@ -169,7 +181,7 @@ Compromised ISP Providers
 * Verizon
 * TNG
 * Spint
-* easybell
+* Easybell
 * L8NT
 * Charter
 * Suddenlink
@@ -486,6 +498,4 @@ Spying programs
 * HACIENDA
 
 
-**Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
-
-
+**Thanks goes to everyone who are fighting for www. security! Give spying no chance!**
