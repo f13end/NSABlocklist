@@ -1,7 +1,7 @@
 NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
-  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
+  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
 </p>
 
 [![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
@@ -21,7 +21,7 @@ My list is original based on 2007 published Wikileaks documents and includes my 
 **Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
 
 
-Mass surveillance is illegal
+Mass surveillance is official illegal
 ------------
 
 According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
@@ -76,11 +76,11 @@ Do you hate the NSA or other agencies?
 Known problems
 ------------
 
-* An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just to late.
+* An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just too late.
 * HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilities on your system/router.
 * HOSTS files can't protect against attacks directly in hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
 * Due the complex of the entire file I can't explain every single IP/Domain/PTR record. If something was changed, feel free to open a pull request or send me an eMail.
-* The GOSTS file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware/trojans can do this. Ensure that the file was marked as read-only and you're not logged in as administrator.
+* The HOSTS file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware/trojans can do this. Ensure that the file was marked as read-only and you're not logged in as administrator.
 * Trace-route analysis especially on IPv4 networks are sometimes outdated (due the mass of requests).
 * Be careful when blocking IP addresses, as IP addresses change frequently and can block people you don't intend to block.
 * **NSA and other agencies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
@@ -107,6 +107,13 @@ Utils
 
 
 
+Anti-DPI (deep package inspection) tools (_they don't replace a good VPN!_)
+------------
+
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) & [GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
+* [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+* [zapret](https://github.com/bol-van/zapret) 
+
 
 NSA Resources and public program(s)
 ------------
@@ -121,6 +128,7 @@ NSA Resources and public program(s)
 Project History
 ------------
 
+- [x] 01.07.2019 Added some Anti-DPI programs.
 - [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
 - [x] 03.06.2018 Ipfilter update, Amazon list finally fully merged.
@@ -166,7 +174,7 @@ Snowden documents compilations
 
 
 
-Compromised ISP Providers
+Known compromised ISP Providers
 ------------
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
@@ -181,10 +189,6 @@ Compromised ISP Providers
 * Verizon
 * TNG
 * Spint
-* Easybell
-* L8NT
-* Charter
-* Suddenlink
 * Sprint
 * Unicom (GFW)
 * CERNET (GFW)
@@ -193,6 +197,15 @@ Compromised ISP Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
+
+
+Needs more evidence
+------------
+
+* Easybell
+* L8NT
+* Charter
+* Suddenlink
 
 
 
@@ -225,7 +238,7 @@ Videos
 Tips directly from nsa.gov
 ------------
 
-* [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several pdf's.
+* [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several PDF's.
 
 
 Backbone Providers
@@ -258,8 +271,8 @@ Spying:<br />
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download) ([proof](https://news.ycombinator.com/item?id=18923155))
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
-* Slickvpn (keeps logs)
-* [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) (keeps logs)
+* Slickvpn (_keeps logs_)
+* [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) ([keeps logs](https://www.bestvpn.co/blog/ipvanish-helps-homeland-security-in-catching-a-criminal-suspect/))
 * Opera VPN (might sells data, according to their privacy policy)
 * Psiphon (might sells data, according to their privacy policy)
 * Onavo Protect (might sells data, according to their privacy policy)
@@ -304,7 +317,7 @@ Spying:<br />
 
 
 
-Recommendation:<br />
+**Recommendation:**
 
 * [ProtonVPN](https://protonvpn.com/)
 * [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
@@ -331,13 +344,13 @@ Other services providers + social media platforms
 * LLC 
 * Yahoo
 * Twitter (FBI records)
-* [Cookie based tracking](NSA uses advertisers’ cookies to track specific web browsers - report)
+* [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
 Government mass surveillance
 ------------
 
-* [ECHELON](https://en.wikipedia.org/wiki/ECHELON) - International mass surveillance program.
+* [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 * [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
 * [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
@@ -359,7 +372,7 @@ Government mass surveillance
 
 
 
-Discontinued
+Discontinued Projects
 ------------
 
 * U.S. Terrorist Surveillance Program 
@@ -383,12 +396,22 @@ Australia
 * Status: unclear, needs confirmation + evidence
 
 
+
 China
 ------------
 
 * Golden Shield Project
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
+
+
+
+
+Korea
+------------
+
+* [Allmost all ISP's blocking /controlling HTTP/HTPS (DPI)](https://www.bleepingcomputer.com/news/security/south-korea-is-censoring-the-internet-by-snooping-on-sni-traffic/)
+
 
 
 France
@@ -498,4 +521,4 @@ Spying programs
 * HACIENDA
 
 
-**Thanks goes to everyone who are fighting for www. security! Give spying no chance!**
+**A special thanks goes to everyone who are fighting for www. security! Give spying no chance!**
