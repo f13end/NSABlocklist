@@ -27,7 +27,15 @@ Mass surveillance is official illegal
 According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
 
 
-You still can help [keep the fight up](https://www.privacynotprism.org.uk/) against any surveillance programs!
+**You still can help [keep the fight up](https://www.privacynotprism.org.uk/) against any surveillance programs!**
+
+
+
+
+NSA has stopped collecting location data from US cellphones without a warrant
+------------
+
+[Intelligence agencies stopped the practice last year](https://www.theverge.com/2019/11/14/20965354/nsa-intelligence-no-warrant-phone-location-data-collection).
 
 
 
@@ -171,6 +179,7 @@ Snowden documents compilations
 ## Anti-NSA programs and networks
 
 * [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
+* [Contract for the Web](https://contractfortheweb.org/)
 
 
 
@@ -178,9 +187,8 @@ Known compromised ISP Providers
 ------------
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
-* Telecom US / T-Mobile 
-* Vodafone
-* Deutsche Telekom
+* Telecom US / T-Mobile / Deutsche Telekom
+* Vodafone (DNS Hijacking, DPI)
 * E-Plus / O2
 * Alphabet (Goolgle) 'Project Fi alias T-Com' [Apr. 2015, needs a special Fi SIM for Nexus 6 XT1103 only (atm)]
 * Digital Ocean, Inc.s
@@ -197,6 +205,13 @@ Known compromised ISP Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
+* Wind Mobile (DNS Hijacking)
+* Wind (DNS Hijacking)
+* Ote (DNS Hijacking)
+* Hol (DNS Hijacking)
+* Forthnet (DNS Hijacking)
+* Cyta (DNS Hijacking)
+* Cosmote (DNS Hijacking)
 
 
 Needs more evidence
@@ -314,16 +329,88 @@ Spying:<br />
 * StackPath
 * Avast (owns three brands: HideMyAss, Avast Secureline VPN, AVG Secure VPN, and Zen VPN)
 * Kape and Gaditek
+* [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption) (_compromised_)
 
 
+Controversial:<br />
 
-**Recommendation:**
+Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#) these VPN services are marked as controversial.
+
+* Opera VPN
+* Hoxx VPN
+* Betternet
+* Hola VPN
+* SecureVPN
+* Ace VPN
+* VPN Unlimited
+* Ra4w VPN
+* Speedify
+* AzireVPN
+* Ivacy
+* BTGuard VPN
+* Zenmate
+* DotVPN
+* VPN.ht
+* F-Secure Freedome
+* Kaspersky VPN
+* Anonymizer VPN
+* Norton Wifi Privacy
+* SurfEasy
+* Encrypt Me
+* TigerVPN
+* AVG VPN
+* PureVPN
+* HideMyAss!
+* Browsec VPN
+* BitDefender VPN
+* Hide All IP
+* ProxPN
+* ZoogVPN
+* VPN ac
+* OneVPN
+* Cactus VPN
+* SaferVPN
+* SpyOFF
+* VPNTunnel
+* SwitchVPN
+* VyprVPN
+* Buffered
+* BolehVPN
+* Avira Phantom
+* PrivateTunnel
+* HotSpot Shield
+* LiquidVPN
+* TunnelBear
+* PrivateVPN
+* StrongVPN
+* SlickVPN
+* Astrill VPN
+* FrootVPN
+* VPNArea
+* Goose VPN
+* Celo VPN
+* PersonalVPN
+* AirVPN
+* AnonymousVPN.org
+* Avast Secureline
+* IVPN
+* TorGuard
+* FastestVPN
+* BlackVPN
+* VPNSecure Me
+* WindScribe
+* ibVPN (almost no servers)
+* Trust Zone
+* CyberGhost
+
+
+**VPN Recommendation:**
+
+Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
-* [Perfect Privacy](https://www.perfect-privacy.com/)
-* [NordVPN](https://nordvpn.com) [Audit](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Documents/VPN/profile-nordvpn2.pdf) [Blog](https://vpnpro.com/blog/why-pwc-audit-of-nordvpn-logging-policy-is-a-big-deal/)
+* [Perfect Privacy](https://surfshark.com/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
@@ -347,9 +434,10 @@ Other services providers + social media platforms
 * [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
-Government mass surveillance
+Government mass surveillance projects & laws
 ------------
 
+### Mass surveillance projects
 * [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 * [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
@@ -368,17 +456,27 @@ Government mass surveillance
 * [SIGINT Activity Designator (or SIGAD)](https://en.wikipedia.org/wiki/SIGINT_Activity_Designator)
 * [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
 * [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
-* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
+
+#### Law
+[Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
 
 
 
-Discontinued Projects
+Known compromised Hardware with Malware or Backdoors
+------------
+
+* [UMX U683CL](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/) (smartphone) [_[Assurance Wireless](https://shop.assurancewireless.com/Unimax-U683CL.html)_]
+
+
+
+Discontinued surveillance programs projects
 ------------
 
 * U.S. Terrorist Surveillance Program 
 * Multistate Anti-Terrorism Information Exchange (MATRIX)
 * ThinThread
 * Trailblazer Project
+* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
 
 
 
@@ -396,14 +494,12 @@ Australia
 * Status: unclear, needs confirmation + evidence
 
 
-
 China
 ------------
 
 * Golden Shield Project
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
-
 
 
 
@@ -521,4 +617,18 @@ Spying programs
 * HACIENDA
 
 
-**A special thanks goes to everyone who are fighting for www. security! Give spying no chance!**
+## Hardware Recommendations
+
+- Phone: [Librem 5](https://puri.sm/products/librem-5/)
+- Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
+- BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
+
+
+
+## Software Recommendations and defense steps Checklist
+
+- [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
+
+
+## THANK YOU !
+**A special thanks goes to everyone who fights for internet security and privacy!**
