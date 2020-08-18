@@ -13,7 +13,7 @@ NSABlocklist© project original created under the ISC license 2015 - present by 
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
-My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
+My list is original based on 2007 published Wikileaks + Cryptome documents and includes my own modifications from 2008, 2012, 2014, 2015, 2019 & 2020.
 
 
 **Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
@@ -78,7 +78,7 @@ Pull requests or ideas are in general always welcome!
 * **NSA and other agencies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
 
 
-### Utils to inspect monitoring / capture Traffic
+### Programs + Websites to inspect monitoring & capture data traffic
 
 * [IPduh](https://ipduh.com/)
 * [Robtex](https://www.robtex.com)
@@ -96,7 +96,7 @@ Pull requests or ideas are in general always welcome!
 
 
 
-### Anti-DPI (deep package inspection) tools
+### Anti-DPI (Deep packet inspection (DPI)) tools & projects
 
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) & [GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
 * [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
@@ -134,7 +134,9 @@ Pull requests or ideas are in general always welcome!
 
 
 
-### Snowden documents compilations
+### Edward Snowden documents compilations
+
+[Edward Snowden never leaked all documents!](https://www.businessinsider.com/snowden-leaks-timeline-2016-9?r=DE&IR=T) I demand that he release all of the files.
 
 * [The NSA files | The Guardian](http://www.theguardian.com/us-news/the-nsa-files)
 * [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
@@ -195,7 +197,7 @@ Pull requests or ideas are in general always welcome!
 * Cosmote (DNS Hijacking)
 
 
-### Needs more research and evidence
+### Compromised ISP's (needs more research and evidence)
 
 * Easybell
 * L8NT
@@ -209,7 +211,7 @@ Pull requests or ideas are in general always welcome!
 * Sonic (US)
 
 
-### Blockchain monitoring
+### Blockchain monitoring projects
 
 * [OAKSTAR](https://en.wikipedia.org/wiki/OAKSTAR) (sub-project MONKEYROCKET)
 * SHIFTINGSHADOW
@@ -221,7 +223,7 @@ Pull requests or ideas are in general always welcome!
 * COBALTFALCON
 
 
-### Video Rsources
+### Video Resources
 
 * [USENIX Enigma 2016 - NSA TAO Chief on Disrupting Nation State Hackers](https://youtu.be/bDJb8WOJYdA)
 
@@ -249,7 +251,7 @@ Pull requests or ideas are in general always welcome!
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
 
 
-### VPN providers which aren't secure, logging or selling your data to 3rd parties
+### VPN providers which aren't secure, logging or selling your data to 3rd-parties
 
 **Known to be compromised or spying**
 
@@ -409,7 +411,7 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
-## Government mass surveillance projects & laws
+## Official Government mass surveillance projects & laws
 
 ### Mass surveillance projects
 * [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
@@ -433,10 +435,10 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 
 
 #### Surveillance by Law
-[Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
+* [Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
 
 
-### Known compromised Hardware with Malware / Backdoors
+### Known compromised Hardware with Malware or/and Backdoors
 
 * [UMX U683CL](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/) (smartphone) [_[Assurance Wireless](https://shop.assurancewireless.com/Unimax-U683CL.html)_]
 
@@ -448,7 +450,6 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * ThinThread
 * Trailblazer Project
 * Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
-
 
 
 ### European Union
@@ -580,7 +581,7 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 ## Software Recommendations and defense steps Checklist
 
 * [A Defensive Computing Checklist by Michael Horowitz (efensivecomputingchecklist.com)](https://defensivecomputingchecklist.com/)
-*[A curated checklist of 300+ tips for protecting digital security and privacy in 2020 (github.com)](https://github.com/Lissy93/personal-security-checklist)
+* [A curated checklist of 300+ tips for protecting digital security and privacy in 2020 (github.com)](https://github.com/Lissy93/personal-security-checklist)
 
 
 ## THANK YOU!
