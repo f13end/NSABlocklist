@@ -381,13 +381,49 @@ Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1
 * Betternet VPN
 
 
+### VPN providers who claim to keep no logs
+
+The claim is made via Interviews & privacy policy inspection, more details are [here](https://torrentfreak.com/best-vpn-anonymous-no-logging/).
+
+* AirVPN
+* Avira
+* AzireVPN
+* BolehVPN
+* CactusVPN
+* CyberGhost
+* ExpressVPN
+* HeadVPN
+* Hide.me
+* HideIPVPN
+* ibVPN
+* IVPN
+* Mullvad
+* NordVPN
+* OVPN
+* Perfect Privacy
+* Private Internet Access
+* PrivateVPN
+* ProtonVPN
+* SlickVPN
+* Surfshark
+* SwitchVPN
+* TorGuard
+* Trust.Zone
+* VPN.ac
+* VPNArea
+* VPNhub
+* WhatTheServer
+* Windscribe
+
+
 **VPN Recommendation:**
 
-Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
+Worth to read, [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/), [bypass censorship measures](https://protonvpn.com/blog/smart-protocol-android)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
-* [Perfect Privacy](https://surfshark.com/)
+* [Perfect Privacy](https://www.perfect-privacy.com/)
+* [OVPN](https://www.ovpn.com/en), short story [here](https://torrentfreak.com/the-pirate-bay-ovpn-responds-to-movie-companies-court-injunction-200707/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
