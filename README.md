@@ -157,7 +157,7 @@ Pull requests or ideas are in general always welcome!
 
 * [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
 * [Contract for the Web](https://contractfortheweb.org/)
-* [DDoSecrets](https://www.cjr.org/tow_center/emma-best-ddosecrets.php)
+* [DDoSecrets](https://ddosecretspzwfy7.onion.to/wanted/)
 
 
 ### NSA has (officially) stopped collecting location data from US cellphones without a warrant
@@ -572,14 +572,15 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 
 ## Hardware Recommendations
 
-- Phone: [Librem 5](https://puri.sm/products/librem-5/)
-- Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
-- BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
+* Phone: [Librem 5](https://puri.sm/products/librem-5/)
+* Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
+* BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
 
 
 ## Software Recommendations and defense steps Checklist
 
-- [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
+* [A Defensive Computing Checklist by Michael Horowitz (efensivecomputingchecklist.com)](https://defensivecomputingchecklist.com/)
+*[A curated checklist of 300+ tips for protecting digital security and privacy in 2020 (github.com)](https://github.com/Lissy93/personal-security-checklist)
 
 
 ## THANK YOU!
