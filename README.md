@@ -1,4 +1,4 @@
-NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015 - present by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
   <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
@@ -8,20 +8,18 @@ NSABlocklist© project original created under the ISC license 2015 - 2019 by [CH
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=social)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-Description
-------------
+### Project Overview
 
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
-My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
+My list is original based on 2007 published Wikileaks + Cryptome documents and includes my own modifications from 2008, 2012, 2014, 2015, 2019 & 2020.
 
 
 **Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
 
 
-Mass surveillance is official illegal
-------------
+### Mass surveillance is official illegal
 
 According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
 
@@ -30,19 +28,10 @@ According to EGMR [mass surveillance is now official against human rights](https
 
 
 
-
-NSA has stopped collecting location data from US cellphones without a warrant
-------------
-
-[Intelligence agencies stopped the practice last year](https://www.theverge.com/2019/11/14/20965354/nsa-intelligence-no-warrant-phone-location-data-collection).
-
-
-
-This project includes
-------------
+### This project includes
 
 * A '[HOSTS](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS)' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link(s) at the bottom and with my own tests.
-* An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
+* An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MIT license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
 * An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file which includes DNS/PTRs that are possible problematic for you. 
@@ -53,17 +42,15 @@ This project includes
 * Information on hardware based attacks. 
 
 
-Any problems, questions or something wrong?
-------------
+### Any problems, questions or something wrong?
 
-* Feel free to open an issue ticket and I will look at it asap. 
+* Feel free to [open an issue ticket](https://github.com/CHEF-KOCH/NSABlocklist/issues/new/choose) and I will look at it asap. _I will reject all requests/discussions without any evidence._
 
 
 Pull requests or ideas are in general always welcome!
 
 
-Important Notice
-------------
+### Important Project Notice
 
 * I do not accept donations in this project, I'm not doing this because I want money, I'm doing this because I didn't found a proper list on the entire Internet and of course I want to share my knowledge with everyone for free. I always think that such information should be available for everyone on the world.
 * The project has no political orientation, there will be no political leaks/information since this is not the main mission here.
@@ -72,16 +59,14 @@ Important Notice
 
 
 
-Do you hate the NSA or other agencies?
-------------
+### Do you hate the NSA or other agencies?
 
 * I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope (mass surveillance) and of course that there is no 'opt-out' or transparency except lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
 * Everyone have something to hide, passwords, private data, accounts, other meta-data, [...]
 
 
 
-Known problems
-------------
+### Known Project / HOST problems
 
 * An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just too late.
 * HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilities on your system/router.
@@ -93,10 +78,7 @@ Known problems
 * **NSA and other agencies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
 
 
-
-
-Utils
-------------
+### Programs + Websites to inspect monitoring & capture data traffic
 
 * [IPduh](https://ipduh.com/)
 * [Robtex](https://www.robtex.com)
@@ -114,16 +96,14 @@ Utils
 
 
 
-Anti-DPI (deep package inspection) tools (_they don't replace a good VPN!_)
-------------
+### Anti-DPI (Deep packet inspection (DPI)) tools & projects
 
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) & [GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
 * [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 * [zapret](https://github.com/bol-van/zapret) 
 
 
-NSA Resources and public program(s)
-------------
+### NSA Resources and public program(s)
 
 * [National Security Agency (github.com)](https://github.com/nationalsecurityagency)
 * [Ghidra reverse engineering (SRE) framework (nsa.gov)](https://www.nsa.gov/resources/everyone/ghidra/) [[story](https://www.theregister.co.uk/2019/03/06/nsa_ghidra_joyce/)]
@@ -131,9 +111,7 @@ NSA Resources and public program(s)
 
 
 
-
-Project History
-------------
+### Project History
 
 - [x] 07.05.2020 IPfilter & VPN suggestion updated
 - [x] 01.07.2019 Added some Anti-DPI programs.
@@ -156,8 +134,9 @@ Project History
 
 
 
-Snowden documents compilations
-------------
+### Edward Snowden documents compilations
+
+[Edward Snowden never leaked all documents!](https://www.businessinsider.com/snowden-leaks-timeline-2016-9?r=DE&IR=T) I demand that he release all of the files.
 
 * [The NSA files | The Guardian](http://www.theguardian.com/us-news/the-nsa-files)
 * [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
@@ -176,15 +155,19 @@ Snowden documents compilations
 
 
 
-## Anti-NSA programs and networks
+## Anti-NSA programs, resources & networks
 
 * [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
 * [Contract for the Web](https://contractfortheweb.org/)
+* [DDoSecrets](https://ddosecretspzwfy7.onion.to/wanted/)
 
 
+### NSA has (officially) stopped collecting location data from US cellphones without a warrant
 
-Known compromised ISP Providers
-------------
+[Intelligence agencies stopped the practice last year](https://www.theverge.com/2019/11/14/20965354/nsa-intelligence-no-warrant-phone-location-data-collection).
+
+
+### Known compromised ISP Providers
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
 * Telecom US / T-Mobile / Deutsche Telekom
@@ -214,8 +197,7 @@ Known compromised ISP Providers
 * Cosmote (DNS Hijacking)
 
 
-Needs more evidence
-------------
+### Compromised ISP's (needs more research and evidence)
 
 * Easybell
 * L8NT
@@ -223,17 +205,14 @@ Needs more evidence
 * Suddenlink
 
 
-
-ISP which are known to fight for privacy and a free internet
-------------
+### ISP which are known to fight for privacy and a free internet
 
 * Bahnhof (Swedish)
 * Sonic (US)
 
 
+### Blockchain monitoring projects
 
-Blockchain monitoring
-------------
 * [OAKSTAR](https://en.wikipedia.org/wiki/OAKSTAR) (sub-project MONKEYROCKET)
 * SHIFTINGSHADOW
 * ORANGECRUSH
@@ -244,20 +223,17 @@ Blockchain monitoring
 * COBALTFALCON
 
 
-Videos
-------------
+### Video Resources
 
 * [USENIX Enigma 2016 - NSA TAO Chief on Disrupting Nation State Hackers](https://youtu.be/bDJb8WOJYdA)
 
 
-Tips directly from nsa.gov
-------------
+### Tips directly provided by nsa.gov
 
 * [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several PDF's.
 
 
-Backbone Providers
-------------
+### Compromised Backbone Providers
 
 * AT&T
 * ATM S.A.
@@ -275,10 +251,10 @@ Backbone Providers
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
 
 
-VPN providers which aren't secure, logging or selling your data to 3rd parties
-------------
+### VPN providers which aren't secure, logging or selling your data to 3rd-parties
 
-Spying:<br />
+**Known to be compromised or spying**
+
 * Hola (might sells data, according to their privacy policy)
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
 * [Hide My Ass](http://www.hacker10.com/internet-anonymity/hma-vpn-user-arrested-after-ip-handed-over-to-the-fbi/)
@@ -332,7 +308,7 @@ Spying:<br />
 * [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption) (_compromised_)
 
 
-Controversial:<br />
+**Controversial**
 
 Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#) these VPN services are marked as controversial.
 
@@ -405,26 +381,62 @@ Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1
 * Betternet VPN
 
 
+### VPN providers who claim to keep no logs
+
+The claim is made via Interviews & privacy policy inspection, more details are [here](https://torrentfreak.com/best-vpn-anonymous-no-logging/).
+
+* AirVPN
+* Avira
+* AzireVPN
+* BolehVPN
+* CactusVPN
+* CyberGhost
+* ExpressVPN
+* HeadVPN
+* Hide.me
+* HideIPVPN
+* ibVPN
+* IVPN
+* Mullvad
+* NordVPN
+* OVPN
+* Perfect Privacy
+* Private Internet Access
+* PrivateVPN
+* ProtonVPN
+* SlickVPN
+* Surfshark
+* SwitchVPN
+* TorGuard
+* Trust.Zone
+* VPN.ac
+* VPNArea
+* VPNhub
+* WhatTheServer
+* Windscribe
+
+
 **VPN Recommendation:**
 
-Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
+Worth to read, [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/), [bypass censorship measures](https://protonvpn.com/blog/smart-protocol-android)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
-* [Perfect Privacy](https://surfshark.com/)
+* [Perfect Privacy](https://www.perfect-privacy.com/)
+* [OVPN](https://www.ovpn.com/en), short story [here](https://torrentfreak.com/the-pirate-bay-ovpn-responds-to-movie-companies-court-injunction-200707/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
 
 
-Other services providers + social media platforms
-------------
+### Other services providers + social media platforms
 
 * Facebook
 * PushTalk / PalTalk
-* MySpace
 * [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
 * Amazon
+* ~~MySpace~~
+* ~~Google+~~
 * Microsoft 
 * Apple
 * Wikipedia, well it's for all
@@ -435,8 +447,7 @@ Other services providers + social media platforms
 * [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
-Government mass surveillance projects & laws
-------------
+## Official Government mass surveillance projects & laws
 
 ### Mass surveillance projects
 * [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
@@ -458,20 +469,17 @@ Government mass surveillance projects & laws
 * [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
 * [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
 
-#### Law
-[Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
+
+#### Surveillance by Law
+* [Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
 
 
-
-Known compromised Hardware with Malware or Backdoors
-------------
+### Known compromised Hardware with Malware or/and Backdoors
 
 * [UMX U683CL](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/) (smartphone) [_[Assurance Wireless](https://shop.assurancewireless.com/Unimax-U683CL.html)_]
 
 
-
-Discontinued surveillance programs projects
-------------
+## (Official) Discontinued surveillance programs projects
 
 * U.S. Terrorist Surveillance Program 
 * Multistate Anti-Terrorism Information Exchange (MATRIX)
@@ -480,83 +488,68 @@ Discontinued surveillance programs projects
 * Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
 
 
-
-European Union
-------------
+### European Union
 
 * Data Retention Directive
 * INDECT
 * Schengen Information System
 
 
-Australia
------------- 
+### Australia
 
 * Status: unclear, needs confirmation + evidence
 
 
-China
-------------
+### China
 
 * Golden Shield Project
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
 
 
-
-Korea
-------------
+### Korea
 
 * [Allmost all ISP's blocking /controlling HTTP/HTPS (DPI)](https://www.bleepingcomputer.com/news/security/south-korea-is-censoring-the-internet-by-snooping-on-sni-traffic/)
 
 
-
-France
-------------
+### France
 
 * Frenchelon 
 
 
-Germany
-------------
+### Germany
 
 * Nachrichtendienstliches Informationssystem
 * Project 6
 * RAMPART-A with BND / NSA (needs more evidence)
 
 
-India
-------------
+### India
 
 * Central Monitoring System (CMS)
 * DRDO NETRA
 * NATGRID
 
 
-Russia
-------------
+### Russia
 
 * SORM
 * Yarovaya Law 
 * other systems rumored - Status: unclear, needs confirmation + evidence
 
 
-Sweden
-------------
+### Sweden
 
 * Titan traffic database
 * X-Keyscore
 
 
-
-Switzerland
-------------
+### Switzerland
 
 * Onyx
 
 
-United Kingdom
-------------
+### United Kingdom
 
 * Impact Nominal Index
 * Interception Modernisation Programme
@@ -566,9 +559,7 @@ United Kingdom
 * Royal Concierge
 
 
-
-United States
-------------
+### United States
 
 * Boundless Informant (needs confirmation)
 * BULLRUN
@@ -599,15 +590,13 @@ United States
 * X-Keyscore
 
 
-Possible Iran (unconfirmed + needs proof)
-------------
+### Possible Iran (unconfirmed + needs more evidence)
+
 * GhostNet
 * Stuxnet
 
 
-
-Spying programs
-------------
+### Spying programs
 
 * Traceroute "Packaged Goods" / "Treasure Map"
 * VOIP: Hammerchant
@@ -620,16 +609,16 @@ Spying programs
 
 ## Hardware Recommendations
 
-- Phone: [Librem 5](https://puri.sm/products/librem-5/)
-- Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
-- BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
-
+* Phone: [Librem 5](https://puri.sm/products/librem-5/)
+* Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
+* BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
 
 
 ## Software Recommendations and defense steps Checklist
 
-- [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
+* [A Defensive Computing Checklist by Michael Horowitz (efensivecomputingchecklist.com)](https://defensivecomputingchecklist.com/)
+* [A curated checklist of 300+ tips for protecting digital security and privacy in 2020 (github.com)](https://github.com/Lissy93/personal-security-checklist)
 
 
-## THANK YOU !
-**A special thanks goes to everyone who fights for internet security and privacy!**
+## THANK YOU!
+**A special thanks goes to everyone who fights for internet security & privacy!**
