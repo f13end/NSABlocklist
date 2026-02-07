@@ -120,3 +120,19 @@ Other Papers
 * [TheIntercept Documents](https://theintercept.com/document/2015/09/25/legalities)
 * [Speicherfristen von Verkehrsdaten im Mobilfunk (spiegel.de)](http://www.spiegel.de/media/media-37689.pdf)
 
+
+Recent References (2021-2025)
+------------
+
+* [The Pegasus Project - A global investigation (2021)](https://en.wikipedia.org/wiki/Pegasus_Project_(investigation)) - Revealed widespread government use of NSO Group's Pegasus spyware
+* [NSA recommends transition to post-quantum cryptography (2022)](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3148990/nsa-releases-future-quantum-resistant-qr-algorithm-requirements-for-national-se/) - NSA guidance on quantum-resistant algorithms
+* [NIST Post-Quantum Cryptography Standardization (2024)](https://csrc.nist.gov/projects/post-quantum-cryptography) - FIPS 203, 204, 205 finalized with CRYSTALS-Kyber, CRYSTALS-Dilithium, SPHINCS+
+* [Salt Typhoon telecom breach (2024-2025)](https://en.wikipedia.org/wiki/Salt_Typhoon) - Chinese state-sponsored actors compromised major US telecom providers
+* [Volt Typhoon critical infrastructure targeting (2023-2024)](https://en.wikipedia.org/wiki/Volt_Typhoon) - Chinese state-sponsored pre-positioning in US critical infrastructure
+* [EU-US Data Privacy Framework adoption (2023)](https://en.wikipedia.org/wiki/EU%E2%80%93US_Data_Privacy_Framework) - Replacement for Privacy Shield with ongoing surveillance concerns
+* [Section 702 FISA Reauthorization (2024)](https://en.wikipedia.org/wiki/Section_702_of_the_Foreign_Intelligence_Surveillance_Act) - Expanded definition of electronic communications service providers
+* [Apple vs. sideloading: EU Digital Markets Act implications for security (2024)](https://en.wikipedia.org/wiki/Digital_Markets_Act)
+* [Intellexa/Predator spyware consortium sanctioned by US Treasury (2024)](https://en.wikipedia.org/wiki/Predator_(spyware))
+* [Signal Protocol adoption by major platforms](https://signal.org/blog/) - End-to-end encryption becoming standard in messaging
+* [Tor Project: Ongoing defense against traffic analysis attacks](https://blog.torproject.org/)
+

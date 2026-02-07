@@ -2,6 +2,7 @@ Project ToDo
 ------------
 
 - [x] Add compromised VPN providers
+- [x] Update project for 2026 with latest surveillance programs, references, and recommendations
 - [ ] Fix Readme.md, typos, grammar,... (mid-prio)
   - [x] Sort hosts entries alphabetically (low-prio)
   - [ ] Add an optional an separate hosts file for MS, Apple, Google (low-prio)
@@ -9,7 +10,7 @@ Project ToDo
 - [x] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues) (high-prio)
   - [ ] Add explanation how to identify compromised domains/DNS or other bogus addresses (high-prio)
-	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
+	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE/DoH/DoT (low-prio)
 	- [x] Add IPv6 only hosts file (low-prio)
 	- [x] Add mirror(s) in case some papers/news are linked directly on blocked government pages (low-prio)
 - [x] Provide external file for sources, reference and researches
@@ -23,3 +24,6 @@ Project ToDo
 - [ ] Separate open/closed/won/lost ones in Campaigns against surveillance.md
 	- [ ] More information, maybe short description + Better intro 
 - [ ] Add latest HOSTS (high-prio)
+- [ ] Add post-quantum cryptography transition guidance
+- [ ] Add commercial spyware (Pegasus, Predator) domains/IPs to blocklist
+- [ ] Document Salt Typhoon / Volt Typhoon indicators of compromise
