@@ -1,4 +1,4 @@
-NSABlocklist© project original created under the ISC license 2015 - present by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015 - 2026 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
   <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
@@ -13,10 +13,10 @@ NSABlocklist© project original created under the ISC license 2015 - present by 
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
-My list is original based on 2007 published Wikileaks + Cryptome documents and includes my own modifications from 2008, 2012, 2014, 2015, 2019 & 2020.
+My list is original based on 2007 published Wikileaks + Cryptome documents and includes my own modifications from 2008, 2012, 2014, 2015, 2019, 2020 & 2026.
 
 
-**Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
+**Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files). Last reviewed and updated for 2026.
 
 
 ### Mass surveillance is official illegal
@@ -92,6 +92,10 @@ Pull requests or ideas are in general always welcome!
 * [Courage Foundation](https://www.couragefound.org/)
 * [shodan.io](https://www.shodan.io/)
 * [censys.io](https://censys.io/)
+* [GreyNoise](https://www.greynoise.io/) - Identifies internet scanners and background noise
+* [Wireshark](https://www.wireshark.org/) - Network protocol analyzer
+* [Arkime (formerly Moloch)](https://arkime.com/) - Open source large scale packet capturing and indexing
+* [OONI Probe](https://ooni.org/) - Detect internet censorship and surveillance
 * ... [others](http://www.rationallyparanoid.com/resources/)
 
 
@@ -101,18 +105,23 @@ Pull requests or ideas are in general always welcome!
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) & [GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
 * [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 * [zapret](https://github.com/bol-van/zapret) 
+* [SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool
+* [ByeDPI](https://github.com/hufrea/byedpi) - Local DPI bypass proxy
 
 
 ### NSA Resources and public program(s)
 
 * [National Security Agency (github.com)](https://github.com/nationalsecurityagency)
 * [Ghidra reverse engineering (SRE) framework (nsa.gov)](https://www.nsa.gov/resources/everyone/ghidra/) [[story](https://www.theregister.co.uk/2019/03/06/nsa_ghidra_joyce/)]
-* [NSA public source code repo (code.nsa.gov)](https://code.nsa.gov/) 
+* [NSA public source code repo (code.nsa.gov)](https://code.nsa.gov/)
+* [NSA Cybersecurity Advisories & Guidance](https://www.nsa.gov/Press-Room/Cybersecurity-Advisories-Guidance/) - Public cybersecurity recommendations
+* [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Maintained jointly with NSA
 
 
 
 ### Project History
 
+- [x] 07.02.2026 Major 2026 update: Added recent surveillance programs (2021-2025), updated VPN lists, added new compromised services, updated references and recommendations for current systems.
 - [x] 07.05.2020 IPfilter & VPN suggestion updated
 - [x] 01.07.2019 Added some Anti-DPI programs.
 - [x] 27.11.2018 NordVPN audit leaked.
@@ -160,6 +169,12 @@ Pull requests or ideas are in general always welcome!
 * [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
 * [Contract for the Web](https://contractfortheweb.org/)
 * [DDoSecrets](https://ddosecretspzwfy7.onion.to/wanted/)
+* [GrapheneOS](https://grapheneos.org/) - Privacy and security focused mobile OS
+* [CalyxOS](https://calyxos.org/) - Privacy-focused Android alternative
+* [Tails OS](https://tails.net/) - Portable operating system for privacy and anonymity
+* [Qubes OS](https://www.qubes-os.org/) - Security-oriented operating system using compartmentalization
+* [Briar](https://briarproject.org/) - Peer-to-peer encrypted messenger designed for activists
+* [Cwtch](https://cwtch.im/) - Decentralized, privacy-preserving multi-party messaging
 
 
 ### NSA has (officially) stopped collecting location data from US cellphones without a warrant
@@ -304,7 +319,7 @@ Pull requests or ideas are in general always welcome!
 * AnchorFree
 * StackPath
 * Avast (owns three brands: HideMyAss, Avast Secureline VPN, AVG Secure VPN, and Zen VPN)
-* Kape and Gaditek
+* Kape and Gaditek (owns ExpressVPN, CyberGhost, Private Internet Access, ZenMate)
 * [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption) (_compromised_)
 
 
@@ -421,20 +436,20 @@ The claim is made via Interviews & privacy policy inspection, more details are [
 Worth to read, [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/), [bypass censorship measures](https://protonvpn.com/blog/smart-protocol-android)
-* [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
-* [Perfect Privacy](https://www.perfect-privacy.com/)
+* [Mullvad VPN](https://mullvad.net/) - No-account, privacy-first VPN ([independently audited](https://mullvad.net/en/blog/tag/audits))
+* [IVPN](https://www.ivpn.net/) - Transparent, independently audited VPN service
 * [OVPN](https://www.ovpn.com/en), short story [here](https://torrentfreak.com/the-pirate-bay-ovpn-responds-to-movie-companies-court-injunction-200707/)
 
-See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
+See [here](https://www.privacyguides.org/en/vpn/) for a more detailed, community-maintained comparison of privacy-respecting VPN providers.
 
 
 
 ### Other services providers + social media platforms
 
-* Facebook
+* Facebook / Meta
 * PushTalk / PalTalk
 * [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
-* Amazon
+* Amazon / AWS
 * ~~MySpace~~
 * ~~Google+~~
 * Microsoft 
@@ -443,7 +458,10 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * Automattic, Inc
 * LLC 
 * Yahoo
-* Twitter (FBI records)
+* Twitter / X (FBI records)
+* TikTok (ByteDance) - [Chinese government access concerns](https://en.wikipedia.org/wiki/TikTok#Privacy_concerns), banned or restricted in multiple countries
+* Telegram - Metadata collection concerns, [cooperation with law enforcement](https://en.wikipedia.org/wiki/Telegram_(software)#Security)
+* Clearview AI - [Facial recognition database](https://en.wikipedia.org/wiki/Clearview_AI) built from social media, used by law enforcement
 * [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
@@ -468,15 +486,26 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * [SIGINT Activity Designator (or SIGAD)](https://en.wikipedia.org/wiki/SIGINT_Activity_Designator)
 * [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
 * [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
+* [Pegasus (NSO Group)](https://en.wikipedia.org/wiki/Pegasus_(spyware)) - Commercial spyware used by governments worldwide, exposed in 2021 Pegasus Project investigation
+* [Predator (Cytrox/Intellexa)](https://en.wikipedia.org/wiki/Predator_(spyware)) - Commercial spyware targeting journalists and politicians
+* [Section 702 FISA Reauthorization](https://en.wikipedia.org/wiki/Section_702_of_the_Foreign_Intelligence_Surveillance_Act) - Reauthorized in 2024 with expanded warrantless surveillance powers
 
 
 #### Surveillance by Law
 * [Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
+* [EU Chat Control Proposal](https://en.wikipedia.org/wiki/Chat_control) - Proposed EU regulation for mass scanning of private messages (2022-present)
+* [UK Online Safety Act 2023](https://en.wikipedia.org/wiki/Online_Safety_Act_2023) - UK law with provisions that could undermine end-to-end encryption
+* [EU AI Act 2024](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act) - EU regulation on AI systems including biometric surveillance restrictions
+* [EARN IT Act](https://en.wikipedia.org/wiki/EARN_IT_Act) - US bill threatening encryption by modifying Section 230 protections
+* [RESTRICT Act](https://en.wikipedia.org/wiki/RESTRICT_Act) - US bill granting broad authority to ban foreign technology (2023)
 
 
 ### Known compromised Hardware with Malware or/and Backdoors
 
 * [UMX U683CL](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/) (smartphone) [_[Assurance Wireless](https://shop.assurancewireless.com/Unimax-U683CL.html)_]
+* Various TP-Link routers - [CISA advisories on Chinese state-sponsored exploitation](https://www.cisa.gov/news-events/cybersecurity-advisories) of SOHO routers (2023-2024)
+* [Intel ME (Management Engine)](https://en.wikipedia.org/wiki/Intel_Management_Engine) - Persistent concerns about hardware-level backdoor capabilities
+* Cisco networking equipment - Multiple vulnerabilities exploited by state actors ([Volt Typhoon](https://en.wikipedia.org/wiki/Volt_Typhoon) campaign, 2023-2024)
 
 
 ## (Official) Discontinued surveillance programs projects
@@ -493,16 +522,21 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * Data Retention Directive
 * INDECT
 * Schengen Information System
+* [Chat Control / CSAM scanning proposal](https://en.wikipedia.org/wiki/Chat_control) - Proposed mass scanning of private messages (2022-present)
+* [EU-US Data Privacy Framework](https://en.wikipedia.org/wiki/EU%E2%80%93US_Data_Privacy_Framework) - Successor to Privacy Shield (2023), concerns about US surveillance access
 
 
 ### Australia
 
-* Status: unclear, needs confirmation + evidence
+* [Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018](https://en.wikipedia.org/wiki/Telecommunications_and_Other_Legislation_Amendment_(Assistance_and_Access)_Act_2018) - Law requiring companies to provide backdoor access
+* [Australian Signals Directorate (ASD)](https://en.wikipedia.org/wiki/Australian_Signals_Directorate) - Signals intelligence agency, Five Eyes member
 
 
 ### China
 
 * Golden Shield Project
+* [Social Credit System](https://en.wikipedia.org/wiki/Social_Credit_System) - Mass behavioral surveillance and scoring
+* [Skynet / Sharp Eyes](https://en.wikipedia.org/wiki/Mass_surveillance_in_China) - Nationwide facial recognition surveillance camera network
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
 
@@ -529,12 +563,14 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * Central Monitoring System (CMS)
 * DRDO NETRA
 * NATGRID
+* [Pegasus spyware deployment](https://en.wikipedia.org/wiki/Pegasus_Project_revelations#India) - Confirmed use of NSO Group's Pegasus against journalists and activists
 
 
 ### Russia
 
 * SORM
 * Yarovaya Law 
+* [TSPU (Technical Measures for Countering Threats)](https://en.wikipedia.org/wiki/Internet_censorship_in_Russia) - DPI-based internet filtering system deployed by Roskomnadzor (2021+)
 * other systems rumored - Status: unclear, needs confirmation + evidence
 
 
@@ -557,6 +593,8 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * UK National DNA Database (NDNAD)
 * Tempora
 * Royal Concierge
+* [Online Safety Act 2023](https://en.wikipedia.org/wiki/Online_Safety_Act_2023) - Potential implications for end-to-end encryption
+* [Investigatory Powers Act 2016 (Snoopers' Charter)](https://en.wikipedia.org/wiki/Investigatory_Powers_Act_2016) - Amended 2023 with expanded powers
 
 
 ### United States
@@ -588,6 +626,8 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * US Intelligence Community (IC)
 * Utah Data Center
 * X-Keyscore
+* [Section 702 FISA](https://en.wikipedia.org/wiki/Section_702_of_the_Foreign_Intelligence_Surveillance_Act) - Reauthorized April 2024, expanded to cover more data providers
+* [Executive Order 12333](https://en.wikipedia.org/wiki/Executive_Order_12333) - Ongoing authority for foreign intelligence collection
 
 
 ### Possible Iran (unconfirmed + needs more evidence)
@@ -605,19 +645,27 @@ See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more deta
 * COMSAT
 * IRRITANT HORN (hijacks Google Play Store contained apps)
 * HACIENDA
+* [Volt Typhoon](https://en.wikipedia.org/wiki/Volt_Typhoon) - Chinese state-sponsored threat actor targeting US critical infrastructure (2023-2024)
+* [Salt Typhoon](https://en.wikipedia.org/wiki/Salt_Typhoon) - Chinese state-sponsored compromise of US telecom providers (2024-2025)
+* [Pegasus (NSO Group)](https://en.wikipedia.org/wiki/Pegasus_(spyware)) - Commercial spyware deployed by multiple governments worldwide
+* [Predator (Intellexa)](https://en.wikipedia.org/wiki/Predator_(spyware)) - Commercial spyware, Intellexa consortium sanctioned by US Treasury (2024)
 
 
 ## Hardware Recommendations
 
-* Phone: [Librem 5](https://puri.sm/products/librem-5/)
-* Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
-* BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
+* Phone: [Pixel with GrapheneOS](https://grapheneos.org/) or [Librem 5](https://puri.sm/products/librem-5/)
+* Laptop: [Librem 14](https://puri.sm/products/librem-14/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/) OR [System76](https://system76.com/) with open firmware
+* Hardware security keys: [YubiKey](https://www.yubico.com/) or [NitroKey](https://www.nitrokey.com/) for FIDO2/WebAuthn authentication
+* Router: [Turris Omnia](https://www.turris.com/en/omnia/) or devices running [OpenWrt](https://openwrt.org/) for open-source firmware
 
 
 ## Software Recommendations and defense steps Checklist
 
-* [A Defensive Computing Checklist by Michael Horowitz (efensivecomputingchecklist.com)](https://defensivecomputingchecklist.com/)
-* [A curated checklist of 300+ tips for protecting digital security and privacy in 2020 (github.com)](https://github.com/Lissy93/personal-security-checklist)
+* [A Defensive Computing Checklist by Michael Horowitz (defensivecomputingchecklist.com)](https://defensivecomputingchecklist.com/)
+* [A curated checklist of 300+ tips for protecting digital security and privacy (github.com)](https://github.com/Lissy93/personal-security-checklist)
+* [Privacy Guides - comprehensive privacy and security resource](https://www.privacyguides.org/)
+* [EFF Surveillance Self-Defense](https://ssd.eff.org/) - Expert guide to protecting yourself from online spying
+* [Security in a Box - Digital security tools and tactics](https://securityinabox.org/)
 
 
 ## THANK YOU!
